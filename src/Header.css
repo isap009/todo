@@ -1,0 +1,12 @@
+.title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0px 5px 7px -7px rgba(0, 0, 0, 0.75);
+}
+.title > .icon {
+  padding: 10px 10px;
+}
+.title > h1 {
+  padding: 10px 10px;
+}

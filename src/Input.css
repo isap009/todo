@@ -1,0 +1,14 @@
+.inputData {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+#outlined-basic {
+  padding: 10px 10px;
+  width: 400px;
+}
+.button {
+  padding: 10px 10px;
+  margin: 10px;
+}
